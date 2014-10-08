@@ -1,3 +1,2 @@
-.classpath
-target/classes/
-target/test-classes/
+.settings/
+target/
